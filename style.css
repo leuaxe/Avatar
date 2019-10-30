@@ -1,3 +1,12 @@
 .avatar input[type='file']{
     display: none;
 }
+
+.avatar-selector{
+    background-color: #009688;
+    color: white;
+    border-radius: 50%;
+    padding: 0.8em;
+    font-size: 1.2em;
+    cursor: pointer;
+}
