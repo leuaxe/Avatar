@@ -18,6 +18,10 @@
     bottom: 0.5em;
 }
 
+.profile{
+    text-align: center;
+}
+
 .profile .img{
     border-radius: 50%;
     width: 200px;
